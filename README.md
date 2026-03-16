@@ -42,7 +42,7 @@ openclaw gateway start
 
 | 模板 | 用途 | 适用场景 | Emoji | 内置 Skills |
 |------|------|----------|-------|-------------|
-| `stardots` | StarDots助手 | 图像备份和托管 | 📸 | - |
+| `stardots` | StarDots助手 | 图像备份和托管 | 📸 | stardots-backup-skill |
 
 ## 🛠️ 使用脚本
 
